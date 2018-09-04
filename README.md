@@ -1,4 +1,1 @@
-# hello-world
-My first github repository :-)
-
-Jakýkoli text si vzpomenu :-)
+Pisu tady neco o sobe, abych videl, jak to funguje :-)
